@@ -1,0 +1,4 @@
+[submodule "npm"]
+	path = node_modules/npm
+	url = git@github.com:coolsee/npm.git
+
